@@ -1,6 +1,6 @@
-# CryptoTools — Hill Cipher & Cryptanalysis Suite (R) 🔐
+# CryptoTools: Hill Cipher & Cryptanalysis Suite (R) 🔐
 
-**CryptoTools** is a hands-on R toolkit for exploring **matrix-based cryptography** (Hill cipher) and **basic cryptanalysis**. Encrypt, decrypt, analyze, and even attempt key recovery — all while learning how linear algebra powers modern cryptography.
+**CryptoTools** is a hands-on R toolkit for exploring **matrix-based cryptography** (Hill cipher) and **basic cryptanalysis**. Encrypt, decrypt, analyze, and even attempt key recovery; all while learning how linear algebra powers modern cryptography.
 
 Perfect for students, hobbyists, or anyone looking to **showcase practical cybersecurity skills** in R.
 
